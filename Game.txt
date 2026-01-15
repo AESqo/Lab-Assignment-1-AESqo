@@ -1,1 +1,1 @@
-This is the 1.0c Version of the game. There are no bugs here, and the hotfix has been added.
+This is the 1.0d Version of the game. There are no bugs here, and both the hotfix and all features from the development branch has been added.
